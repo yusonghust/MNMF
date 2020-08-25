@@ -1,0 +1,6 @@
+../PPI_network/coexpression.edgelist False False
+../PPI_network/cooccurence.edgelist False False
+../PPI_network/database.edgelist False False
+../PPI_network/experimental.edgelist False False
+../PPI_network/fusion.edgelist False False
+../PPI_network/neighborhood.edgelist False False

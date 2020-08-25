@@ -5,7 +5,8 @@
 Tensorflow implementation of 'Multi-Stage Network Embedding for Exploring Heterogeneous Edges'  
 
 ## Introduction
-A tensorflow implementation of MNMF, which is matrix factorization method for networks with heterogeneous edges.
+A tensorflow implementation of MNMF, which is matrix factorization method for networks with heterogeneous edges.   
+I should have written a very detailed introduction document about this repo, but I am too lazy.   
 
 ## Requirement
 python 3.6, tensorflow 1.12.0   

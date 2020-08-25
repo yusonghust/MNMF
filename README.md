@@ -1,6 +1,6 @@
 # MNMF
 
-**Due to the impact of COVID-19, our server is not acceable at this time, but the original datasets will be upload as soon as possible.**    
+**The datasets used in origin paper can be download online. The PPI_network (edge weights is ignored here) is provided for testing the code.**    
 
 Tensorflow implementation of 'Multi-Stage Network Embedding for Exploring Heterogeneous Edges'  
 
@@ -10,3 +10,7 @@ I should have written a very detailed introduction document about this repo, but
 
 ## Requirement
 python 3.6, tensorflow 1.12.0   
+a GPU with more than 12Gb memory   
+
+## QA   
+If you have any questions about this code, feel free to email yusonghust@gmail.com. I will response as soon as possible.

@@ -10,12 +10,12 @@ class config():
     def __init__(self):
         self._configs = {}
 
-        self._configs['path']       = path + '/aminer/views.txt' ### view path
-        self._configs['nodes']      = path + '/aminer/nodes.txt'
-        self._configs['labels']     = path + '/aminer/author_label.txt'
+        self._configs['path']       = path + '/PPI_network/views.txt' ### view path
+        self._configs['nodes']      = path + '/PPI_network/nodes.txt'
+        self._configs['labels']     = path + '/PPI_network/protein_label.txt'
         self._configs['dims']       = 256
         self._configs['lr']         = 0.01
-        self._configs['epochs']     = 50
+        self._configs['epochs']     = 100
         self._configs['layers']     = 8
         self._configs['order']      = 2
         self._configs['cuda']       = '0'

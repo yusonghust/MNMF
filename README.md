@@ -7,7 +7,7 @@ There may have slight difference between the codes and the descriptions of the p
 
 ## Introduction
 A tensorflow implementation of MNMF, which is matrix factorization method for networks with heterogeneous edges.   
-I should have written a very detailed introduction document about this repo, but I am too lazy.   
+
 
 ## Requirement
 python 3.6, tensorflow 1.12.0   
